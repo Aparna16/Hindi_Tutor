@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aparna R\.android\build-cache\5de6f31f8db35df8717262ad233f382f393cde3a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Aparna R\AndroidStudioProjects\ud839_Miwok-Starter-code\app\build\intermediates\pre-dexed\debug\classes_2a05d3880b8cd4feca8789e154e8e5f5176c94e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aparna R\.android\build-cache\68683f580ca2dd9c6429d956f2036118ddb5d12f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="C:\Users\Aparna R\AndroidStudioProjects\ud839_Miwok-Starter-code\app\build\intermediates\pre-dexed\debug\classes_fae8af269d260c4444a4375c0e21a56557477eed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aparna R\.android\build-cache\ca6bec174147d4ac9e77fe7487661bab0a20483e\output\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="C:\Users\Aparna R\AndroidStudioProjects\ud839_Miwok-Starter-code\app\build\intermediates\pre-dexed\debug\internal_impl-23.3.0_862d91c9c7e1487086a42518d1fa4dec95ae8d78.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aparna R\.android\build-cache\6381bc42995c8662a1c09a0bffbe557db7bd1ecc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="C:\Users\Aparna R\AndroidStudioProjects\ud839_Miwok-Starter-code\app\build\intermediates\pre-dexed\debug\classes_5da25ddf229fcdc91e36ae175410737c9dcdcf94.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aparna R\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Aparna R\AndroidStudioProjects\ud839_Miwok-Starter-code\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_d465d9b7cefc66bbdb5e886edde7a6d494fddd09.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aparna R\.android\build-cache\3931e34b7e3769c1326580aa2b75f6dd76203089\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="C:\Users\Aparna R\AndroidStudioProjects\ud839_Miwok-Starter-code\app\build\intermediates\pre-dexed\debug\classes_3a639fb54172b0a54c4d0dad30cc1627510014da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aparna R\.android\build-cache\f8fdb7d7131c2200d67cf16d150fe4b6b7f85971\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="C:\Users\Aparna R\AndroidStudioProjects\ud839_Miwok-Starter-code\app\build\intermediates\pre-dexed\debug\classes_6f4613deb944e37d198ce03e060283d6929f173b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aparna R\.android\build-cache\ca6bec174147d4ac9e77fe7487661bab0a20483e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="C:\Users\Aparna R\AndroidStudioProjects\ud839_Miwok-Starter-code\app\build\intermediates\pre-dexed\debug\classes_491f454695c8743754de801cf5f66e35222da1d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aparna R\.android\build-cache\017ac67e2720e54de365ee3eff553db3aef79411\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="C:\Users\Aparna R\AndroidStudioProjects\ud839_Miwok-Starter-code\app\build\intermediates\pre-dexed\debug\classes_b793059f061b43ba032e6cd38a17dca8cca8a949.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aparna R\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="C:\Users\Aparna R\AndroidStudioProjects\ud839_Miwok-Starter-code\app\build\intermediates\pre-dexed\debug\support-annotations-23.3.0_0cae60ce533b1d188f1a4c46299aacf6d70e938a.jar" />
+    </item>
+
+</items>
